@@ -1,0 +1,6 @@
+To change the notice
+--------------------
+1. write the notice in notice.txt
+present in notice folder
+2. save the file
+3. restart the program
